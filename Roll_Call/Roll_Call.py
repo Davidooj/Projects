@@ -129,16 +129,6 @@ while intro != "rapid fire" and intro != "search":
 
         time.sleep(12000)
 
-# WHAT THIS PROGRAM DOES
-
-# This is a roll call program I made for my wife, it has 2 modes. 1st mode is called rapid fire, it iterates through
-# every name in the document and prompts her to say if they attendees, apologies, chaired or took minutes. At the
-# end of the list or when the user exist via text command, the program prints a series of appended lists of who attended,
-# didn't attend, chaired and took minutes in the format which she requested.
-# The 2nd mode is called search, where it prompts the user to type in the names of who did each role, iterates through
-# the csv file to collect the name, and prints them in the same fashion as the 1st mode.
-
-
 # THINGS I COULDN'T FIX YET:
 
 # In the Rapid Fire mode,
